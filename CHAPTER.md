@@ -1,10 +1,9 @@
 # Project W1 Charter
-
 ## User
-A junior geoscientist or student who needs a quick first-pass look at a well's lithology.
+A petroleum geoscience student or early-career geoscientist who works with well logs and needs a quick first impression of the rock types. Managers and other stakeholders are secondary users who may review the outputs.
 
 ## Decision supported
-Where are the likely sandstone, shale and carbonate intervals, and which intervals are too uncertain to trust without expert review?
+Which sections of the well are most likely shale, sandstone, or other lithologies, and which intervals should I re-examine carefully before relying on the interpretation?
 
 ## Data
 FORCE 2020 open well-log dataset (Norwegian offshore). Licence and columns to be verified in Phase 2.
